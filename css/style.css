@@ -40,7 +40,7 @@ h2 {
 }
 
 h3 {
-  font-style: italic;
+  font-style: normal;
   font-size: 20px;
   color: #000;
   line-height: 22px;
@@ -103,6 +103,7 @@ a {
 #skills-h3 {
   color: #f5ae23;
   display: none;
+  padding: 10px;
 }
 
 .orange {
